@@ -17,6 +17,5 @@ public interface BeerService {
 
     public void deleteById(Long id) throws BeerNotFoundException;
 
-
     public BeerDTO increment(Long id, int quantityToIncrement) throws BeerNotFoundException, BeerStockExceededException;
 }
