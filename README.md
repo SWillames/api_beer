@@ -67,4 +67,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https
 
 ## Contato
 
-SWillames - [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin/)
+SWillames - [Seu LinkedIn](https://www.linkedin.com/in/sergiowillames/)
